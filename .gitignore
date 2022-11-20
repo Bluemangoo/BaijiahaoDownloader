@@ -1,0 +1,7 @@
+/build
+/dist
+/Docx
+/Markdown
+/venv
+/.idea
+*.spec
